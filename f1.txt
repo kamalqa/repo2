@@ -3,8 +3,5 @@ master
 test
 
 
-2 nd change ni master
+test2
 
-2nd change in test
-
-haha
