@@ -2,7 +2,4 @@ master
 
 test
 
-
-2 nd change ni master
-
-2nd change in test
+test2
